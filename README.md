@@ -1,4 +1,4 @@
-# WatchParty (TelaJunta)
+# WatchParty 
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue" alt="Status">
