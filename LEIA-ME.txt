@@ -1,0 +1,10 @@
+COMO GERAR O WatchParty.exe (1 minuto)
+
+1. Deixe todos estes arquivos na mesma pasta (nao precisa instalar nada).
+2. De dois cliques em Compilar_WatchParty.bat
+3. Vai aparecer o WatchParty.exe nessa pasta.
+4. Mande esse WatchParty.exe para os amigos. Todos precisam usar esta versao nova.
+
+A Twitch juntos e o lo-fi funcionam melhor pelo .exe (ele abre o programa em http://localhost).
+Abrir_WatchParty.bat abre o HTML direto, mas ai a Twitch nao funciona.
+Se tiver o icone.ico, coloque na mesma pasta para o .exe sair com icone.
